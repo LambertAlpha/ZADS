@@ -1,0 +1,41 @@
+Barra模型风格因子,Barra模型细分因子,
+Liquidity,STOM,√
+,STOQ,√
+,STOA,√
+,ATVR,×
+Leverage,MLEV,√
+,BLEV,√
+,DTOA,√
+Earning Varibility,VSAL,√
+,VERN,×
+,VFLO,×
+,SPIBS,×
+Earning Quality,ACBS,×
+,ACCF,×
+Profitability,ATO,×
+,GP,×
+,GM,×
+,ROA,×
+Investment Quality,AGRO,×
+,IGRO,×
+,CXGRO,×
+BTOP,BTOP,√
+Earning Yield,ETOP,√
+ ,EPIBS,×
+,CETOP,√
+,ENMU,×
+Long Term Reversal,LTRSTR,×
+,LTALPHA,×
+Growth,EGRLF,×
+,EGRO,√
+,SGRO,√
+Momentum,RSTR,√
+,HALPHA,√
+Mid Cap,MIDCAP,√
+Size,LSIZE/NLSIZE,√
+Beta,BETA,√
+Resival Volatility,HSIGMA,√
+,DASTD,√
+,CMRA,√
+Dividend Yield,DTOP,√
+,DPIBS,×
